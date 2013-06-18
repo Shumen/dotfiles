@@ -4,8 +4,12 @@
 # except these file
 !.gitconfig
 !.gitignore
+!.gitattributes
 !.bash_aliases
 !.vimrc
+!.netrc
+!.screenrc
 !.gdbinit
+!.config/user-dirs.dirs
 
 # etc.... 
