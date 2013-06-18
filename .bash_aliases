@@ -1,3 +1,7 @@
+alias ll='ls -l'
+alias la='ls -A'
+alias l='ls -CF'
+
 #CentOS for OVP
 alias ssh.126='ssh user@192.168.1.126'
 #Fedora for virt-viewer Windows MinGW32 Cross Compile
