@@ -1,0 +1,11 @@
+#git config status.showUntrackedFiles no
+# ignore everything
+*
+# except these file
+!.gitconfig
+!.gitignore
+!.bash_aliases
+!.vimrc
+!.gdbinit
+
+# etc.... 
